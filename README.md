@@ -3,7 +3,7 @@
 Welcome to the Sales Dashboard project repository! This project focuses on analyzing sales data from a US-based company spanning 2014 to 2017. Through Excel, we've crafted an interactive dashboard that provides comprehensive insights into sales performance across different product categories and states.
 
 ## Dashboard Preview:
-![Dashboard Preview]( ![https://github.com/mohammedjunaithit-lang/Sales-Dashboard-Using-Excel---Data-Analyst-Project/blob/e130c4c5ac264bebfdfcba208d82c87e374db25f/dashboard_preview.png](https://github.com/mohammedjunaithit-lang/Sales-Dashboard-Using-Excel---Data-Analyst-Project/blob/e130c4c5ac264bebfdfcba208d82c87e374db25f/dashboard_preview.png))
+![Dashboard Preview](https://github.com/mohammedjunaithit-lang/Sales-Dashboard-Using-Excel---Data-Analyst-Project/blob/e130c4c5ac264bebfdfcba208d82c87e374db25f/dashboard_preview.png)
 
 
 ## Features:
@@ -24,7 +24,7 @@ Welcome to the Sales Dashboard project repository! This project focuses on analy
 - **Skills Demonstrated:** Data analysis, visualization, dashboard design.
 
 ## Connect with Me:
-Follow me on LinkedIn for more data analysis projects and insights: [LinkedIn Profile](www.linkedin.com/in/mohammed-junaith-b06202299)
+Follow me on LinkedIn for more data analysis projects and insights: ![LinkedIn Profile](www.linkedin.com/in/mohammed-junaith-b06202299)
 
 ## Tags:
 #DataAnalysis #DataAnalyst #Excel #DataVisualization #BusinessIntelligence #SalesAnalytics

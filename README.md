@@ -24,7 +24,7 @@ Welcome to the Sales Dashboard project repository! This project focuses on analy
 - **Skills Demonstrated:** Data analysis, visualization, dashboard design.
 
 ## Connect with Me:
-Follow me on LinkedIn for more data analysis projects and insights: ![LinkedIn Profile](www.linkedin.com/in/mohammed-junaith-b06202299)
+Follow me on LinkedIn for more data analysis projects and insights: [LinkedIn Profile](https://www.linkedin.com/in/mohammed-junaith-b06202299)
 
 ## Tags:
 #DataAnalysis #DataAnalyst #Excel #DataVisualization #BusinessIntelligence #SalesAnalytics
